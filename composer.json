@@ -1,0 +1,17 @@
+{
+    "name": "arolle/kyc-sdk",
+    "description": "sdk for identity verification",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Arolle\\KycSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arolle11",
+            "email": "arollefona11@gmail.com"
+        }
+    ],
+    "require": {}
+}
